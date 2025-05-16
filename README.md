@@ -4,7 +4,7 @@
 
 ## What is this repo?
 
-This repository contains the core components of Obseon for the [Solana Hyperdrive Hackathon 2025]. For this sprint, we are focusing on:
+This repository contains the core components of Obseon for the Solana Breakout Hackathon. For this sprint, we are focusing on:
 - A minimal prototype of the mobile app (React Native or Swift)
 - A basic web interface for the spatialized marketplace (Next.js or SvelteKit)
 - Conceptual backend structure (Firebase or Supabase)
