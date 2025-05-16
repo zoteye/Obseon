@@ -1,1 +1,13 @@
-docs coming soon
+# Obseon TODOs
+
+## Mobile
+- [ ] Build prototype UI in Swift or React Native
+- [ ] Integrate geo-location for vaulting
+
+## Web
+- [ ] Static landing page
+- [ ] Spatialized marketplace view
+
+## Contracts
+- [ ] Vault minting logic (Solana)
+- [ ] Listener interaction proof-of-concept
